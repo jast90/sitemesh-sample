@@ -11,6 +11,6 @@
     <title></title>
 </head>
 <body>
-footer
+guest footer
 </body>
 </html>

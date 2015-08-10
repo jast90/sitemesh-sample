@@ -19,7 +19,7 @@
     <div id="content">
         <sitemesh:write property="body"/>
     </div>
-    <%@include file="/WEB-INF/layouts/guest/fooder.jsp" %>
+    <%@include file="/WEB-INF/layouts/guest/footer.jsp" %>
 </div>
 </body>
 </html>
